@@ -1,0 +1,19 @@
+{
+  "name": "client-share",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ildjenty/react-state-management-review.git"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
